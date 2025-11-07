@@ -16,10 +16,10 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Download UX Resume
         url: uploads/resume.pdf
       headings:
-        about: ''
+        about: 'Hello! 🎮🧩🕹️	'
         education: ''
         interests: ''
     design:
@@ -27,21 +27,21 @@ sections:
       css_class: hbx-bg-gradient
       # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: xL # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My UX Research Experience'
       subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+      text: |
+        During my PhD program at Claremont Graduate University I completed my internship at Hit Point Studios in Los Angeles, CA. This paid internship turned into first-hand UX research experience led to several research/consulting positions where I developed UX research abilites related to (a) conducting competitive analyses then formulating competitive analysis brief documents, (b) conduct in-application/hands-on user experience research for virtual/extended reality product, and (c) writing Non-Playable Character responses. 
+        
+        Additionally, I served as the graduate teaching assistant for every User Experience course offered at Claremont Graduate University consisting of courses on Strategy and Design (PSY 350UX), Usability Testing and Interaction Design (PSY 350UT), and User Experience Research Methodology (PSY 350UR). 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
+    demo: true # turned off
     id: papers
     content:
       title: Featured Publications
@@ -53,6 +53,7 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    demo: true # turned off
     content:
       title: Recent Publications
       text: ''
@@ -63,6 +64,7 @@ sections:
     design:
       view: citation
   - block: collection
+    demo: true # turned off
     id: talks
     content:
       title: Recent & Upcoming Talks
@@ -72,6 +74,7 @@ sections:
     design:
       view: card
   - block: collection
+    demo: true # turned off
     id: news
     content:
       title: Recent News

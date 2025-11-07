@@ -23,12 +23,14 @@ sections:
       title: Skills & Hobbies
       username: admin
     design:
-      show_skill_percentage: false
+      show_skill_percentage: true
   - block: resume-awards
+    demo: true
     content:
       title: Awards
       username: admin
   - block: resume-languages
+    demo: true
     content:
       title: Languages
       username: admin
