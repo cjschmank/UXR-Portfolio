@@ -34,9 +34,11 @@ sections:
       title: 'My UX Research Experience'
       subtitle: ''
       text: |
-        During my PhD program at Claremont Graduate University I completed my internship at Hit Point Studios in Los Angeles, CA. This paid internship turned into first-hand UX research experience led to several research/consulting positions where I developed UX research abilites related to (a) conducting competitive analyses then formulating competitive analysis brief documents, (b) conduct in-application/hands-on user experience research for virtual/extended reality product, and (c) writing Non-Playable Character responses. 
+        While completing the coursework required for my doctoral program at Claremont Graduate University I completed a paid user experience (UX) internship at HitPoint Studios in Los Angeles, California. 
         
-        Additionally, I served as the graduate teaching assistant for every User Experience course offered at Claremont Graduate University consisting of courses on Strategy and Design (PSY 350UX), Usability Testing and Interaction Design (PSY 350UT), and User Experience Research Methodology (PSY 350UR). 
+        This internship provided me with various opportunities aimed at developing my UX toolkit/skill set. For example, conducting competitive analyses followed by the formulation of an executive competitive analysis brief and in-application/hands-on user experience/usability testing for a virtual/extended reality product.
+        
+        Additionally, after completing all of the courses offered at Claremont Graduate University concerning user experience strategy, research, and design I served as the graduate teaching assistant for these courses. The User Experience courses offered at CGU consisted of UX Strategy and Design (PSY 350UX), Usability Testing and Interaction Design (PSY 350UT), and User Experience Research Methodology (PSY 350UR). 
 
     design:
       columns: '1'

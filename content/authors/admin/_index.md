@@ -222,11 +222,11 @@ skills:
 #     summary: |
 #       Recognized for contributions to scaling laws in deep learning.
 ---
-User experience (i.e., UX) strategists attempt to build/iterate products with potential user/customer problem(s) in mind. What follows is my user experience (UX) portfolio that centered around building an interactive website and application (rough prototype) during UX coursework at Claremont Graduate University: YourTrek---a social networking platform for hikers and outdoor enthusiasts. 
+User experience (i.e., UX) strategists attempt to build/iterate products with potential user/customer problem(s) in mind. What follows is my **User eXperience Portfolio** that centered around building an interactive website and application (rough prototype) during UX coursework at Claremont Graduate University: YourTrek---a social networking platform for hikers and outdoor enthusiasts. 
 
 YourTrek was created while completing User Experience Strategy and Design course instructed by Jaime Levy. In this course, we generated rapid, guerilla research for our user based product. User personas were predicted and validated for each user base which was based on competitive analyses and a deep dive into the current marketplace. These personas and competitive analysis findings were condensed into micro-presenetations to mimic the fast moving world of UX Strategy and Design and the art of building by iteration. Additionally, in-person and online interviews were conducted on potential users to get a feel of the marketvalue being offered. Finally, Facebook Ads were used to conducti conversion rate tests, which allowed us to isolate various marekts where the product would be most viable.
 
- The end result of this course is presented below in the Projects section!
+ The end result of this course is presented above in the Projects section!
 
 Additionally, a brief section on usability testing and interaction design has recently been added using the AuthentiCare 2.0 application as "inspiration". 
 
