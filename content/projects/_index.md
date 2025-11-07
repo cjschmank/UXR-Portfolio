@@ -5,13 +5,14 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '5rem'
+  spacing: '9rem'
 
 # Page sections
 sections:
   - block: collection
     content:
       title: Portfolio Items
+      count: 8
       text: 
       filters:
         folders:

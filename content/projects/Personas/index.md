@@ -1,6 +1,6 @@
 ---
 title: Provisional & Validated User Personas
-date: 2020-03-06
+date: 2020-02-06
 links:
   - type: slides
     url: https://drive.google.com/file/d/15TfyNiOL_f3OnHVB0AGHWWxSX77Z8CzF/view?usp=sharing
