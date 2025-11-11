@@ -19,7 +19,7 @@ sections:
         text: Download UX Resume
         url: uploads/resume.pdf
       headings:
-        about: 'Hello! 🎮🧩🕹️	'
+        about: 'Welcome to my UX Portfolio! 🎮🧩🕹️	'
         education: ''
         interests: ''
     design:
@@ -27,8 +27,8 @@ sections:
       css_class: hbx-bg-gradient
       # Avatar customization
       avatar:
-        size: xL # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: rounded # Options: circle (default), square, rounded
   - block: markdown
     content:
       title: 'My UX Research Experience'
