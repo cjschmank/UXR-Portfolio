@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Christopher Schmank, PhD
+title: Christopher J. Schmank, PhD
 
 # Name pronunciation (optional)
 name_pronunciation: ''
